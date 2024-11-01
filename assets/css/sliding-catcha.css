@@ -1,0 +1,8 @@
+.wpcf7-sliding-captcha { margin-top:20px;width:252px;}
+.wpcf7-sliding-captcha .clr {clear:both}
+.wpcf7-sliding-captcha .bgSlider {width:252px;border:1px solid #ccc;background-color:#e2e2e2; height: auto; display: block;}
+.wpcf7-sliding-captcha .default {width:51px;height:37px;background:transparent url('../images/lock.jpg') no-repeat;cursor:e-resize;position:relative;top:0;left:0; display: block;}
+.wpcf7-sliding-captcha .unlock-default {width:51px;height:37px;background:transparent url('../images/unlock.jpg') no-repeat;cursor:e-resize;position:relative;top:0;left:0}
+.wpcf7-sliding-captcha .TxtStatus {width:252px;margin:7px 0;text-align:left;color:#bb2828;font-family:Verdana;font-size:10px;clear:both}
+.wpcf7-sliding-captcha .dropSuccess {color:#4e8b37}
+.wpcf7-sliding-captcha .dropError {color:#bb2828}
